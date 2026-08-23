@@ -17,6 +17,18 @@
   .Recipe dd {
     margin-left: 0.5em; 
   }
+    .Recipe p
+{
+    margin-left: 0em;
+    font-size: 1.75em;
+    margin-bottom: 0;
+    clear: both;
+}
+.Recipe ul
+{
+    clear: both;
+    font-size: 1.4em;
+}
 }
 body
 {
