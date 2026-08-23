@@ -19,13 +19,14 @@
   }
     .Recipe p
 {
-    margin-left: 0em;
+    margin-left: 0;
     font-size: 1.75em;
     margin-bottom: 0;
     clear: both;
 }
 .Recipe ul
 {
+    margin-left: 0;
     clear: both;
     font-size: 1.4em;
 }
