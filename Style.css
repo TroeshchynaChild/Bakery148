@@ -26,7 +26,8 @@
 }
 .Recipe ul
 {
-    margin-left: 0;
+    margin: 0;
+    padding: 0;
     clear: both;
     font-size: 1.4em;
 }
