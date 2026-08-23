@@ -6,11 +6,10 @@
     flex-direction: column;
     }
 .Recipe img {
-    float: none;    
-    display: block;
+    float: none;
     max-width: 100%;
     height: auto;
-    margin: 1em auto;   
+    margin: 0.5em;
   }
   .Recipe dt,
   .Recipe dd {
@@ -20,16 +19,12 @@
 {
     margin-left: 0;
     font-size: 1.75em;
-    margin-bottom: 0;
+    margin-bottom: 0; margin-top: 1em;
     clear: both;
 }
 .Recipe ul
 {
-    margin: 0;
-    padding: 0;
     clear: both;
-    font-size: 1.4em;
-    text-align: left;
 }
 }
 body
@@ -263,7 +258,6 @@ main h2
 }
 .Recipe ul
 {
-    margin-left: 12.4em;
     font-size: 1.4em;
 }
 #first
